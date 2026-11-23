@@ -16,6 +16,14 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Wild Hunt night: medallion gold on steel slate with Witcher 3 art"
+    },
+    {
+      "id": "lord-of-the-rings",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-lord-of-the-rings",
+      "folder": "lord-of-the-rings",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "One Ring gold on Middle-earth night with Lord of the Rings fan art"
     }
   ],
   "plugins": [],
