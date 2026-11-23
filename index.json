@@ -24,6 +24,30 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "One Ring gold on Middle-earth night with Lord of the Rings fan art"
+    },
+    {
+      "id": "star-wars",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-star-wars",
+      "folder": "star-wars",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Lightsaber red on deep space with Sith and Mandalorian art"
+    },
+    {
+      "id": "cyberpunk-2077",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-cyberpunk-2077",
+      "folder": "cyberpunk-2077",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Night City yellow and neon on black with Cyberpunk 2077 art"
+    },
+    {
+      "id": "demon-slayer",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-demon-slayer",
+      "folder": "demon-slayer",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Tanjiro's crimson on night plum with Demon Slayer art"
     }
   ],
   "plugins": [],
