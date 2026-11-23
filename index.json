@@ -48,6 +48,38 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Tanjiro's crimson on night plum with Demon Slayer art"
+    },
+    {
+      "id": "spider-man",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-spider-man",
+      "folder": "spider-man",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Spider red and web blue on night navy with Spider-Man art"
+    },
+    {
+      "id": "spider-man-miles-morales",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-spider-man-miles-morales",
+      "folder": "spider-man-miles-morales",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Glitch red, magenta and cyan on black with Miles Morales art"
+    },
+    {
+      "id": "skyrim",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-skyrim",
+      "folder": "skyrim",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Frost blue on cold stone with The Elder Scrolls V: Skyrim art"
+    },
+    {
+      "id": "hollow-knight",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-hollow-knight",
+      "folder": "hollow-knight",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Soul blue on Hallownest night with Hollow Knight art"
     }
   ],
   "plugins": [],
