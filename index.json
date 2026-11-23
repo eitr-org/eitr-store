@@ -8,6 +8,14 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Vice City sunset: hot pink, peach and dusk violet with GTA VI art"
+    },
+    {
+      "id": "witcher-3",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-witcher-3",
+      "folder": "witcher-3",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Wild Hunt night: medallion gold on steel slate with Witcher 3 art"
     }
   ],
   "plugins": [],
