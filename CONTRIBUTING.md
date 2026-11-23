@@ -1,7 +1,9 @@
 # Contributing
 
-Submit only content you have permission to distribute. Identify its maintainer
-and use a valid SPDX license identifier. Explain changes in your pull request.
+Host your item in your own repository and follow the content rules in the README:
+fan content is welcome when its owner is credited and its license is `LicenseRef-` plus
+a short name; your own work uses a valid SPDX license identifier. Identify the
+maintainer and explain changes in your pull request.
 Keep descriptions factual, short, and free of instructions to reviewers.
 
 Themes and wallpaper packs are data only: no scripts, executable files,
