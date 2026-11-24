@@ -80,6 +80,46 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Soul blue on Hallownest night with Hollow Knight art"
+    },
+    {
+      "id": "anonymous",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-anonymous",
+      "folder": "anonymous",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Neon red and smoke blue on black with hooded mask art"
+    },
+    {
+      "id": "dragon-ball",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-dragon-ball",
+      "folder": "dragon-ball",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Goku orange on deep navy with Dragon Ball art"
+    },
+    {
+      "id": "elden-ring",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-elden-ring",
+      "folder": "elden-ring",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Grace gold on dark moss with Elden Ring art"
+    },
+    {
+      "id": "one-piece",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-one-piece",
+      "folder": "one-piece",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Blood moon red on dark crimson with One Piece art"
+    },
+    {
+      "id": "pokemon",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-pokemon",
+      "folder": "pokemon",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Pikachu yellow on night indigo with Pokemon art"
     }
   ],
   "plugins": [],
