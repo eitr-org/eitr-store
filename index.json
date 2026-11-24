@@ -128,6 +128,14 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Portal green on dark space with Rick and Morty art"
+    },
+    {
+      "id": "persona-5",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-persona-5",
+      "folder": "persona-5",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Phantom Thieves red on black with Persona 5 art"
     }
   ],
   "plugins": [],
