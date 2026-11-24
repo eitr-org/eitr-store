@@ -120,6 +120,14 @@
       "maintainer": "erickbatistaprado",
       "license": "LicenseRef-Fan-Content",
       "description": "Pikachu yellow on night indigo with Pokemon art"
+    },
+    {
+      "id": "rick-and-morty",
+      "repository": "https://github.com/erickbatistaprado/eitr-theme-rick-and-morty",
+      "folder": "rick-and-morty",
+      "maintainer": "erickbatistaprado",
+      "license": "LicenseRef-Fan-Content",
+      "description": "Portal green on dark space with Rick and Morty art"
     }
   ],
   "plugins": [],
